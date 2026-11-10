@@ -1,4 +1,4 @@
-#Wall Materials CNN GLCM Project
+### Wall Materials CNN GLCM Project
 
 ## Data
 This project uses the public dataset by Mengiste et al. (2023):
