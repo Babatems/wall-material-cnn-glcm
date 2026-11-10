@@ -1,0 +1,7 @@
+test,A,B,metric,mean diff (A-B),CI low,CI high,decision
+H1 Inception,inception_fusion,inception_cnn,accuracy,0.0094,-0.0281,0.0469,No clear difference
+H1 Inception,inception_fusion,inception_cnn,macro_f1,0.0074,-0.0386,0.0535,(supporting)
+H1 ResNet-50,resnet_fusion,resnet_cnn,accuracy,0.0025,-0.0081,0.0131,No clear difference
+H1 ResNet-50,resnet_fusion,resnet_cnn,macro_f1,0.0017,-0.0073,0.0107,(supporting)
+H2,resnet_fusion,inception_fusion,accuracy,0.0289,-0.0275,0.0854,Non-inferior: H2 supported
+H2,resnet_fusion,inception_fusion,macro_f1,0.0361,-0.0326,0.1048,(supporting)

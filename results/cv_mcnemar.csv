@@ -1,0 +1,7 @@
+A,B,repeat,images,"A right, B wrong","B right, A wrong",p_value
+inception_fusion,inception_cnn,0,208,6,4,0.7539
+inception_fusion,inception_cnn,1,208,6,4,0.7539
+resnet_fusion,resnet_cnn,0,208,1,1,1.0
+resnet_fusion,resnet_cnn,1,208,1,0,1.0
+resnet_fusion,inception_fusion,0,208,7,4,0.5488
+resnet_fusion,inception_fusion,1,208,10,1,0.0117

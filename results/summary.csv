@@ -1,0 +1,7 @@
+,accuracy,accuracy,macro_f1,macro_f1
+,mean,std,mean,std
+config,,,,
+inception_cnn,0.929,0.048,0.907,0.067
+inception_fusion,0.895,0.032,0.88,0.041
+resnet_cnn,0.995,0.011,0.995,0.012
+resnet_fusion,0.986,0.013,0.984,0.014

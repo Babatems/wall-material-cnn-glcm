@@ -1,0 +1,16 @@
+A,B,seed,"A right, B wrong","B right, A wrong",p_value
+inception_fusion,inception_cnn,0,0,1,1.0
+inception_fusion,inception_cnn,1,1,3,0.625
+inception_fusion,inception_cnn,2,1,1,1.0
+inception_fusion,inception_cnn,3,0,4,0.125
+inception_fusion,inception_cnn,4,1,1,1.0
+resnet_fusion,resnet_cnn,0,0,0,1.0
+resnet_fusion,resnet_cnn,1,0,0,1.0
+resnet_fusion,resnet_cnn,2,0,1,1.0
+resnet_fusion,resnet_cnn,3,0,1,1.0
+resnet_fusion,resnet_cnn,4,0,0,1.0
+resnet_fusion,inception_fusion,0,2,0,0.5
+resnet_fusion,inception_fusion,1,4,0,0.125
+resnet_fusion,inception_fusion,2,4,0,0.125
+resnet_fusion,inception_fusion,3,4,0,0.125
+resnet_fusion,inception_fusion,4,5,0,0.0625

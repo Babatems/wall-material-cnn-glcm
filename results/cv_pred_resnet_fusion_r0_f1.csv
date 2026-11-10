@@ -1,0 +1,43 @@
+path,y_true,y_pred
+/content/drive/MyDrive/wall-material-project/data/CMU wall/CMU wall 0.jpg,0,0
+/content/drive/MyDrive/wall-material-project/data/CMU wall/CMU wall 10.jpg,0,0
+/content/drive/MyDrive/wall-material-project/data/CMU wall/CMU wall 14.jpg,0,0
+/content/drive/MyDrive/wall-material-project/data/CMU wall/CMU wall 2.jpg,0,0
+/content/drive/MyDrive/wall-material-project/data/CMU wall/CMU wall 20.jpg,0,0
+/content/drive/MyDrive/wall-material-project/data/CMU wall/CMU wall 7.jpg,0,0
+/content/drive/MyDrive/wall-material-project/data/Chiseled concrete/Chiseled concrete 12.jpg,1,1
+/content/drive/MyDrive/wall-material-project/data/Chiseled concrete/Chiseled concrete 18.jpg,1,1
+/content/drive/MyDrive/wall-material-project/data/Chiseled concrete/Chiseled concrete 2.jpg,1,1
+/content/drive/MyDrive/wall-material-project/data/Chiseled concrete/Chiseled concrete 29.jpg,1,1
+/content/drive/MyDrive/wall-material-project/data/Chiseled concrete/Chiseled concrete 3.jpg,1,1
+/content/drive/MyDrive/wall-material-project/data/Chiseled concrete/Chiseled concrete 31.jpg,1,1
+/content/drive/MyDrive/wall-material-project/data/Chiseled concrete/Chiseled concrete 4.jpg,1,1
+/content/drive/MyDrive/wall-material-project/data/Chiseled concrete/Chiseled concrete 42.jpg,1,1
+/content/drive/MyDrive/wall-material-project/data/Chiseled concrete/Chiseled concrete 44.jpg,1,1
+/content/drive/MyDrive/wall-material-project/data/Concrete/Concrete 0.jpg,2,2
+/content/drive/MyDrive/wall-material-project/data/Concrete/Concrete 12.jpg,2,2
+/content/drive/MyDrive/wall-material-project/data/Concrete/Concrete 15.jpg,2,2
+/content/drive/MyDrive/wall-material-project/data/Concrete/Concrete 8.jpg,2,2
+/content/drive/MyDrive/wall-material-project/data/First coat plaster/First coat plaster 10.jpg,3,3
+/content/drive/MyDrive/wall-material-project/data/First coat plaster/First coat plaster 12.jpg,3,3
+/content/drive/MyDrive/wall-material-project/data/First coat plaster/First coat plaster 15.jpg,3,3
+/content/drive/MyDrive/wall-material-project/data/First coat plaster/First coat plaster 16.jpg,3,3
+/content/drive/MyDrive/wall-material-project/data/First coat plaster/First coat plaster 17.jpg,3,3
+/content/drive/MyDrive/wall-material-project/data/First coat plaster/First coat plaster 24.jpg,3,3
+/content/drive/MyDrive/wall-material-project/data/First coat plaster/First coat plaster 25.jpg,3,3
+/content/drive/MyDrive/wall-material-project/data/First coat plaster/First coat plaster 34.jpg,3,3
+/content/drive/MyDrive/wall-material-project/data/First coat plaster/First coat plaster 7.jpg,3,3
+/content/drive/MyDrive/wall-material-project/data/Gypsum/Gypsum 0.jpg,4,4
+/content/drive/MyDrive/wall-material-project/data/Gypsum/Gypsum 13.jpg,4,4
+/content/drive/MyDrive/wall-material-project/data/Gypsum/Gypsum 16.jpg,4,4
+/content/drive/MyDrive/wall-material-project/data/Gypsum/Gypsum 21.jpg,4,4
+/content/drive/MyDrive/wall-material-project/data/Mesh/Mesh 10.jpg,5,5
+/content/drive/MyDrive/wall-material-project/data/Mesh/Mesh 11.jpg,5,5
+/content/drive/MyDrive/wall-material-project/data/Mesh/Mesh 14.jpg,5,5
+/content/drive/MyDrive/wall-material-project/data/Mesh/Mesh 17.jpg,5,5
+/content/drive/MyDrive/wall-material-project/data/Mesh/Mesh 5.jpg,5,5
+/content/drive/MyDrive/wall-material-project/data/Second coat plaster/Second coat plaster 1.jpg,6,6
+/content/drive/MyDrive/wall-material-project/data/Second coat plaster/Second coat plaster 13.jpg,6,6
+/content/drive/MyDrive/wall-material-project/data/Second coat plaster/Second coat plaster 14.jpg,6,6
+/content/drive/MyDrive/wall-material-project/data/Second coat plaster/Second coat plaster 21.jpg,6,6
+/content/drive/MyDrive/wall-material-project/data/Second coat plaster/Second coat plaster 27.jpg,6,6

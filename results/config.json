@@ -1,0 +1,53 @@
+{
+  "test_size": 0.2,
+  "split_seed": 42,
+  "glcm_size": 256,
+  "glcm_levels": 64,
+  "glcm_distances": [
+    1,
+    2,
+    3
+  ],
+  "glcm_angles_deg": [
+    0,
+    45,
+    90,
+    135
+  ],
+  "glcm_props": [
+    "contrast",
+    "dissimilarity",
+    "homogeneity",
+    "energy",
+    "correlation",
+    "ASM"
+  ],
+  "cnn_dim": 1024,
+  "glcm_dim": 256,
+  "head_hidden": 256,
+  "dropout": 0.3,
+  "batch_size": 16,
+  "epochs_frozen": 15,
+  "epochs_finetune": 15,
+  "lr_head": 0.001,
+  "lr_finetune": 0.0001,
+  "weight_decay": 0.0001,
+  "aug_rotation_deg": 15,
+  "aug_crop_scale": [
+    0.8,
+    1.0
+  ],
+  "aug_brightness": 0.2,
+  "aug_contrast": 0.2,
+  "train_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "cv_folds": 5,
+  "cv_repeats": 2,
+  "h2_margin": 0.03,
+  "dup_hash_threshold": 8
+}
