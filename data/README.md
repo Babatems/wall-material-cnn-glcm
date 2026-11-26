@@ -28,7 +28,7 @@ Classes are imbalanced (largest/smallest ≈ 2.7), which is why macro-F1 is repo
 
 | Folder | Tracked in Git? | Contents |
 |---|---|---|
-| `sample/` | yes | 2 images per class, for a quick look at the data (CC BY 4.0, credited above) |
+| `sample/` | yes | 2 images per class, downscaled to 1024 px on the long side, for a quick look at the data (CC BY 4.0, credited above) |
 | `raw/` | **no** (`.gitignore`) | the full dataset — download it yourself as below |
 
 ## How to get the full dataset
