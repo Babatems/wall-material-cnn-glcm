@@ -1,0 +1,31 @@
+# --- Data -------------------------------------------------------------
+# Full dataset: download it from Mendeley Data (see data/README.md).
+# Only the small CC BY 4.0 sample in data/sample/ is tracked.
+data/raw/
+*.zip
+
+# --- Outputs of a fresh re-training run (keep the published results/) --
+results_rerun/
+
+# --- Model weights and checkpoints -------------------------------------
+*.pt
+*.pth
+*.ckpt
+
+# --- Credentials ------------------------------------------------------
+.env
+*.token
+secrets.*
+
+# --- Python / Jupyter -------------------------------------------------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# --- OS and editor files ----------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
