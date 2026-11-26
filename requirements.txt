@@ -1,0 +1,15 @@
+# Versions used for the reported results (Google Colab, Python 3.13, NVIDIA T4, CUDA 13.0).
+# For a GPU build of PyTorch on your own machine, follow https://pytorch.org/get-started/locally/
+torch==2.14.1
+torchvision==0.29.1
+numpy==2.4.6
+pandas==2.2.3
+pillow==11.3.0
+matplotlib==3.10.0
+scikit-image==0.25.2
+scikit-learn==1.6.1
+scipy==1.16.3
+statsmodels==0.15.0
+imagehash>=4.3
+# To run the notebook locally
+jupyterlab
